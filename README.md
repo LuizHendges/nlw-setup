@@ -39,7 +39,6 @@ O Habits é um app para ajudar a rastrear os hábitos.
 <a target="_blank" href="https://LuizHendges.github.io/nlw-setup">Visite o projeto online
 </a>
 </li>
-
 </ul>
 
 ## 🔖 Layout
